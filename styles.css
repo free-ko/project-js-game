@@ -123,3 +123,183 @@ button {
 .bug:hover {
     transform: scale(1.1)
 }
+
+
+/* iPhone 5/SE */
+@media screen and (max-width:320px) {
+    h1 {
+        color: white;
+    }
+
+    .game {
+        width: 100%;
+        height: 20rem;
+        margin-top: 2rem;
+    }
+
+    .game__button {
+        width: 2rem;
+        height: 2rem;
+        border: 2px solid black;
+        font-size: 0.9rem;
+    }
+
+    .game__timer {
+        width: 6rem;
+        font-size: 1.4rem;
+        border: 2px solid black;
+        margin-top: 12px;
+    }
+
+    .game__score {
+        margin-top: 1rem;
+        width: 36px;
+        height: 36px;
+        font-size: 1.5rem;
+        border: 2px solid black;
+    }
+
+    .pop-up {
+        width: 80%;
+        height: 100%;
+        padding: 0.5rem 0;
+        margin-top: 1rem;
+    }
+
+    .pop-up__refresh {
+        width: 40px;
+        height: 40px;
+        font-size: 1rem;
+    }
+
+    .pop-up__message {
+        margin-top: 14px;
+        font-size: 1.5rem;
+    }
+
+    .bug,
+    .carrot {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+
+/* iPhone 6/7/8 */
+@media screen and (min-width:321px) and (max-width:667px) {
+    h1 {
+        color: white;
+    }
+
+    .game {
+        width: 100%;
+        height: 20rem;
+        margin-top: 2rem;
+    }
+
+    .game__button {
+        width: 2.1rem;
+        height: 2.1rem;
+        border: 2px solid black;
+        font-size: 1rem;
+    }
+
+    .game__timer {
+        width: 6.5rem;
+        font-size: 1.4rem;
+        border: 2px solid black;
+        margin-top: 12px;
+    }
+
+    .game__score {
+        margin-top: 0.8rem;
+        width: 40px;
+        height: 40px;
+        font-size: 1.6rem;
+        border: 2px solid black;
+    }
+
+    .pop-up {
+        width: 80%;
+        height: 100%;
+        padding: 0.6rem 0;
+        margin-top: 1.5rem;
+    }
+
+    .pop-up__refresh {
+        width: 45px;
+        height: 45px;
+        font-size: 1.1rem;
+    }
+
+    .pop-up__message {
+        margin-top: 14px;
+        font-size: 1.6rem;
+    }
+
+    .bug,
+    .carrot {
+        width: 38px;
+        height: 38px;
+    }
+}
+
+
+/* iPhone 6/7/8/Plus */
+@media screen and (min-width:414px) and (max-width:736px) {
+    h1 {
+        color: white;
+    }
+
+    .game {
+        width: 100%;
+        height: 20rem;
+        margin-top: 2rem;
+    }
+
+    .game__button {
+        width: 2.1rem;
+        height: 2.1rem;
+        border: 2px solid black;
+        font-size: 1rem;
+    }
+
+    .game__timer {
+        width: 6.5rem;
+        font-size: 1.4rem;
+        border: 2px solid black;
+        margin-top: 12px;
+    }
+
+    .game__score {
+        margin-top: 0.8rem;
+        width: 40px;
+        height: 40px;
+        font-size: 1.6rem;
+        border: 2px solid black;
+    }
+
+    .pop-up {
+        width: 80%;
+        height: 100%;
+        padding: 0.6rem 0;
+        margin-top: 1.5rem;
+    }
+
+    .pop-up__refresh {
+        width: 45px;
+        height: 45px;
+        font-size: 1.1rem;
+    }
+
+    .pop-up__message {
+        margin-top: 14px;
+        font-size: 1.6rem;
+    }
+
+    .bug,
+    .carrot {
+        width: 38px;
+        height: 38px;
+    }
+}
