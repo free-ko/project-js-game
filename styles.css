@@ -164,6 +164,10 @@ button {
         border: 2px solid black;
     }
 
+    .game__field {
+        margin-top: 20px;
+    }
+
     .pop-up {
         width: 80%;
         height: 100%;
@@ -224,6 +228,10 @@ button {
         border: 2px solid black;
     }
 
+    .game__field {
+        margin-top: 17px;
+    }
+
     .pop-up {
         width: 80%;
         height: 100%;
@@ -282,6 +290,10 @@ button {
         height: 40px;
         font-size: 1.6rem;
         border: 2px solid black;
+    }
+
+    .game__field {
+        margin-top: 20px;
     }
 
     .pop-up {
