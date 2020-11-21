@@ -2,6 +2,6 @@
 
 ## 🔥 Study List 🔥
 
-✅ HTML  
-✅ CSS  
-✅ JS
+- HTML
+- CSS
+- JS
