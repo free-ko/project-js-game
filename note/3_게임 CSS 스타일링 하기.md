@@ -1,4 +1,4 @@
-# 게임 마크업 된 코드를 CSS로 적용했습니다.
+# 마크업 된 코드를 CSS로 적용하겠습니다.
 
 <br>
 
@@ -74,10 +74,10 @@ button {
 }
 
 .game__field {
+  position: relative;
   width: 100%;
   height: 100%;
   margin-top: 40px;
-  opacity: 0.4;
 }
 
 .pop-up {
