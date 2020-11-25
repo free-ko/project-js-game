@@ -3,8 +3,8 @@
 
 <br>
 
-## 🔥 Study List 🔥
+## Study List 
 
-- HTML
-- CSS
-- JS
+- HTML 🔥
+- CSS 🔥
+- JS 🔥🔥🔥
