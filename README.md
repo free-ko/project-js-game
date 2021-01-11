@@ -1,6 +1,10 @@
 # [Catching Carrot](https://free-ko.github.io/project-js-game/) 🥕
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+### 설명
+- 주어진 시간 안에 당근을 모두 클릭하면 승리!!
+- 버그 곤충을 클릭하면 실패!!
+
 ### 주요 기능
 - 시작 버튼 클릭 타이머, 사운드, 이미지 랜덤 위치
 - 타이머에 따라 팝업 창 등장
